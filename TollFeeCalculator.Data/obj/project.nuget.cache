@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eE4R4lPVhYpEHEokdQF+ViakvKpJo9U6fHqmNjB4UVAU4J+erum4e0XKIPZvS0f/Ix4gSeFD5wIgh9OkouFhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asmaa\\Desktop\\Humphree\\Second_interview_&_tests\\TollFeeCalculator-CodeTest\\TollFeeCalculator\\TollFeeCalculator.Data\\TollFeeCalculator.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asmaa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

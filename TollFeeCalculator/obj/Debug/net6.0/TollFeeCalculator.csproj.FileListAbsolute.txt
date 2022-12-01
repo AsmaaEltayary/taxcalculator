@@ -1,0 +1,15 @@
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\bin\Debug\net6.0\TollFeeCalculator.exe
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\bin\Debug\net6.0\TollFeeCalculator.deps.json
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\bin\Debug\net6.0\TollFeeCalculator.runtimeconfig.json
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\bin\Debug\net6.0\TollFeeCalculator.dll
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\bin\Debug\net6.0\TollFeeCalculator.pdb
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\TollFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\TollFeeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\TollFeeCalculator.AssemblyInfoInputs.cache
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\TollFeeCalculator.AssemblyInfo.cs
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\TollFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\TollFeeCalculator.dll
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\refint\TollFeeCalculator.dll
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\TollFeeCalculator.pdb
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\TollFeeCalculator.genruntimeconfig.cache
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator\obj\Debug\net6.0\ref\TollFeeCalculator.dll

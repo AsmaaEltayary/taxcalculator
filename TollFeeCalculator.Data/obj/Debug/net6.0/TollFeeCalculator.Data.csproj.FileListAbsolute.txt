@@ -1,0 +1,12 @@
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\TollFeeCalculator.Data.csproj.AssemblyReference.cache
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\TollFeeCalculator.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\TollFeeCalculator.Data.AssemblyInfoInputs.cache
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\TollFeeCalculator.Data.AssemblyInfo.cs
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\TollFeeCalculator.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\bin\Debug\net6.0\TollFeeCalculator.Data.deps.json
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\bin\Debug\net6.0\TollFeeCalculator.Data.dll
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\bin\Debug\net6.0\TollFeeCalculator.Data.pdb
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\TollFeeCalculator.Data.dll
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\refint\TollFeeCalculator.Data.dll
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\TollFeeCalculator.Data.pdb
+C:\Users\Asmaa\Desktop\Humphree\Second_interview_&_tests\TollFeeCalculator-CodeTest\TollFeeCalculator\TollFeeCalculator.Data\obj\Debug\net6.0\ref\TollFeeCalculator.Data.dll
